@@ -1,0 +1,32 @@
+{
+  "name": "graphql-disable-introspection-with-exceptions",
+  "version": "1.0.0",
+  "description": "Disable Introspection in GraphQL-JS with a simple validation rule, but add exceptions for certain safe types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/graphql-disable-introspection-with-exceptions.git"
+  },
+  "keywords": [
+    "graphql",
+    "disable",
+    "introspection",
+    "exceptions",
+    "certain",
+    "safe",
+    "types"
+  ],
+  "author": "Brockreece@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrockReece/graphql-disable-introspection-with-exceptions/issues"
+  },
+  "homepage": "https://github.com/BrockReece/graphql-disable-introspection-with-exceptions#readme",
+  "dependencies": {
+    "graphql": "^14.0.2",
+    "lodash.get": "^4.4.2"
+  }
+}
